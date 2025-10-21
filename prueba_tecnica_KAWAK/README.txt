@@ -1,5 +1,6 @@
 # Sistema de Gestión de Documentos
-
+usuario admin
+contraseña 1234
 ## Instalación Rápida en XAMPP
 
 ### 1. Copiar el proyecto
@@ -47,5 +48,6 @@ http://localhost/prueba_tecnica_KAWAK/public/
 **Página en blanco**: Verifica que Apache y MySQL estén iniciados en XAMPP
 
 **Error de conexión**: Revisa que la base de datos `kawak_db` exista y las credenciales en `config/config.php` sean correctas
+
 
 **No sube archivos**: Verifica que el tamaño del archivo sea menor a 10 MB
